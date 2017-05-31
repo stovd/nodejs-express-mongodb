@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "authors": [
+    "stovd <411273834@qq.com>"
+  ],
+  "description": "node.js",
+  "main": "",
+  "license": "MIT",
+  "homepage": "index.jade",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
