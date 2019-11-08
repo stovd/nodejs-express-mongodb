@@ -188,7 +188,7 @@
     "mongodb": "^2.2.27",
     "moment": "^2.18.1",
     "mongodb-core": "^2.1.11",
-    "mongoose": "^4.10.4",
+    "mongoose": "^5.7.8",
     "mpath": "^0.2.1",
     "mkdirp": "^0.5.1",
     "mpromise": "^0.5.5",
